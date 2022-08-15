@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/info-mono/emwave"><img src=""></a></p>
+<p align="center"><a href="https://github.com/info-mono/emwave"><img src="https://user-images.githubusercontent.com/43980777/184646552-b75357f3-d3e1-4798-baed-3d30c8f40036.png"></a></p>
 <p align="center">Emwave with custom string</p>
 <p align="center">
   <a href="https://github.com/info-mono/emwave/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/emwave?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a>
@@ -13,8 +13,14 @@ This is an enhanced version of it with option to set display string. It also use
 
 Try it:
 
-```
+```sh
 sh -c "$(curl -fsLS https://info-mono.github.io/emwave)" -- <string>
+```
+
+If you just want a quick print of the default emwave, try:
+
+```sh
+curl -fsLS https://info-mono.github.io/emwave/default
 ```
 
 ## 🚀 Setup
