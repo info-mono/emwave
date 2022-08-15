@@ -1,6 +1,6 @@
 {
   "name": "emwave",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "description": "Customizable Emwave",
   "global": "true",
   "scripts": ["bin/emwave"],
